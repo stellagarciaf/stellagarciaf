@@ -1,60 +1,68 @@
-# Hi There, eu sou Stella 👋
+# Hi there, I'm Stella 👋
 
-💻 Desenvolvedora Full Stack com foco em Front-End
+💻 Full Stack Developer focused on Front-End
 
-🎓 Estudante de ADS
+🎓 ADS Student
 
-🚀 Desenvolvendo aplicações web com React, Flask e MySQL
+🚀 Building web applications with React, Flask, and MySQL
 
-📚 Atualmente estudando:
-- APIs REST
-- Autenticação JWT
-- TypeScript
-- Arquitetura Full Stack
+📚 Currently studying:
+
+* REST APIs
+* JWT Authentication
+* TypeScript
+* Full Stack Architecture
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
 ### Front-End
-- HTML
-- CSS
-- JavaScript
-- React
+
+* HTML
+* CSS
+* JavaScript
+* React
 
 ### Back-End
-- Python
-- Flask
-- Node.js
-- C
 
-### Banco de Dados
-- MySQL
-- PostgreSQL
+* Python
+* Flask
+* Node.js
+* C
 
-### Ferramentas
-- Git
-- GitHub
-- Figma
-- Linux
+### Databases
+
+* MySQL
+* PostgreSQL
+
+### Tools
+
+* Git
+* GitHub
+* Figma
+* Linux
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
 ### 📚 StudyFlow
-Sistema web de organização de estudos utilizando React, Flask e MySQL.
+
+Web-based study organization system built with React, Flask, and MySQL.
 
 ### 🍰 Gourmet Desserts Menu
-Catálogo digital interativo para loja de doces.
+
+Interactive digital catalog developed for a dessert store.
 
 ### 🔄 Sortscope
-Visualizador interativo de algoritmos de ordenação.
+
+Interactive sorting algorithm visualizer.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-📧 Email: stellagarciaf@gmail.com
+📧 Email: [stellagarciaf@gmail.com](mailto:stellagarciaf@gmail.com)
 
-🔗 GitHub: https://github.com/stellagarciaf
+🔗 GitHub: github.com/stellagarciaf
