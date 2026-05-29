@@ -26,6 +26,7 @@
 - Python
 - Flask
 - Node.js
+- C
 
 ### Banco de Dados
 - MySQL
