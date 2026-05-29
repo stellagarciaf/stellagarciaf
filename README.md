@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi There, eu sou Stella 👋
 
-<!--
-**stellagarciaf/stellagarciaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Full Stack com foco em Front-End
 
-Here are some ideas to get you started:
+🎓 Estudante de ADS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Desenvolvendo aplicações web com React, Flask e MySQL
+
+📚 Atualmente estudando:
+- APIs REST
+- Autenticação JWT
+- TypeScript
+- Arquitetura Full Stack
+
+---
+
+## 🛠 Tecnologias
+
+### Front-End
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Back-End
+- Python
+- Flask
+- Node.js
+
+### Banco de Dados
+- MySQL
+- PostgreSQL
+
+### Ferramentas
+- Git
+- GitHub
+- Figma
+- Linux
+
+---
+
+## 📌 Projetos em destaque
+
+### 📚 StudyFlow
+Sistema web de organização de estudos utilizando React, Flask e MySQL.
+
+### 🍰 Gourmet Desserts Menu
+Catálogo digital interativo para loja de doces.
+
+### 🔄 Sortscope
+Visualizador interativo de algoritmos de ordenação.
+
+---
+
+## 📫 Contato
+
+📧 Email: stellagarciaf@gmail.com
+
+🔗 GitHub: https://github.com/stellagarciaf
