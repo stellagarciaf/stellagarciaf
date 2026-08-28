@@ -2,7 +2,6 @@
 
 💻 Full Stack Developer focused on Front-End
 
-🎓 ADS Student
 
 🚀 Building web applications with React, Flask, and MySQL
 
